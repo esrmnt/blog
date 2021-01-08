@@ -2,17 +2,22 @@
 title: Colophon
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello there, I'm student of computer science. This blog for documentation of my journey with technology.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello There 👋
 
-If you have a question about him or else, just send a letter to him.
+I'm Nitish Ranjan, a .Net developer and very passionate integration specialist. I work as an Application and Integration Development Team Lead, improving products and services by designing, building and maintaining enterprise application integration and business to business solutions.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Starting a blog, has always been on my to-do list, it seems like a good place to document my thoughts and notes to self. I intend to document and write about
 
-**may u needs ✨**
+-   guides to implement something
+-   my struggles with technology 😁
+
+##### If you wish to contact me ✨
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- https://www.linkedin.com/in/{{ site.author.linkedin }}
+
+##### Happy browsing ! ✌️
