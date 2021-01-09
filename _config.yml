@@ -24,7 +24,7 @@ author:
 url: "https://blog.nitisher.net" #
 baseurl:
 permalink: /:title/
-google_analytics: G-H105WVV7Y9
+google_analytics: UA-186919891-1
 fb_appid:
 
 # Collection setting
@@ -58,7 +58,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 4
 
 # Build settings
 # theme: klise
