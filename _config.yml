@@ -21,10 +21,10 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://localhost" #
+url: "https://blog.nitisher.net" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-H105WVV7Y9
 fb_appid:
 
 # Collection setting
